@@ -1,0 +1,14 @@
+.form-header {
+  background-color: #222;
+  height: 250px;
+  padding: 20px;
+  color: white;
+}
+
+label {
+  padding: 20px;
+}
+
+.btn-input {
+  margin: 10px 125px;
+}
